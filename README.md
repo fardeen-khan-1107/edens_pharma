@@ -1,0 +1,2 @@
+# edens_pharma
+frontend
